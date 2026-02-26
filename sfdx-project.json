@@ -7,6 +7,6 @@
   ],
   "name": "internal-management-system",
   "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sfdcLoginUrl": "https://karthik-practice-dev-ed.develop.lightning.force.com/",
   "sourceApiVersion": "65.0"
 }
